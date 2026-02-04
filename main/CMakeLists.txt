@@ -1,4 +1,3 @@
-cmake_minimum_required(VERSION 3.16)
-
-include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-project(test_oled)
+idf_component_register(SRCS "test_oled.cpp"
+                    INCLUDE_DIRS "."
+                    REQUIRES esp_adc driver esp_driver_i2c)
