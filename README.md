@@ -9,7 +9,7 @@
 > - Dương Ngọc Hoài Anh  - 20233991
 > - Trần Phi Anh Nhật    - 20234029
 
-## 📖 Giới thiệu (Overview)
+## Giới thiệu (Overview)
 Dự án này là một thiết bị đeo thông minh (Wearable Device) có khả năng chuyển đổi các cử chỉ tay của ngôn ngữ ký hiệu thành văn bản hiển thị trên màn hình OLED. Hệ thống sử dụng vi điều khiển **ESP32** kết hợp với thuật toán học máy **Random Forest (Edge AI)** để phân loại cử chỉ trong thời gian thực với độ trễ thấp (< 200ms).
 
 ###  Tính năng nổi bật
