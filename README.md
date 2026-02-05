@@ -1,6 +1,6 @@
 # Găng Tay Phiên Dịch Ngôn Ngữ Ký Hiệu (Smart Sign Language Translator Glove) 
 
-> **Đồ án môn học:** Kỹ thuật Vi xử lý
+> **Bài tập lớn môn học:** Kỹ thuật Vi xử lý
 > **Trường:** Đại học Bách Khoa Hà Nội (HUST)
 > **GVHD:** Hàn Huy Dũng
 >
